@@ -1,4 +1,4 @@
-package algo;
+package algo.grock_algo;
 
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
